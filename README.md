@@ -5,7 +5,6 @@
 
 <p align='center'>
 <a href="mailto:philnately24@gmail.com">
-<a href="mailto:philipnduka92@gmail.com">
   <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="https://x.com/phil_nately">
@@ -27,7 +26,7 @@
 
 ## 💡 Open source libraries
 - ♒️♒️ <a href="https://pub.dev/packages/flutternativedata">Flutternativedata - A new Flutter plugin project that allows you to get all native data in one place. </a> 
-- 📶📶 <a href="https://pub.dev/packages/flutternativedata">Flutternativedata - Liveness detection for face recognition in biometrics is a technique where an algorithm detects if the person in front of the camera is alive and real. </a> 
+- 📶📶 <a href="https://pub.dev/packages/livelyness_detection">Livelyness_detetcion - Liveness detection for face recognition in biometrics is a technique where an algorithm detects if the person in front of the camera is alive and real </a> 
 
 ---
 
