@@ -20,8 +20,10 @@
 
 ## 📖 Recent Blog Posts
 
+- 📔 <a href="https://www.linkedin.com/posts/philipigboba_state-management-in-swiftui-using-observableobject-activity-7249771713167523841">🚀 State Management in SwiftUI using ObservableObject and @StateObject</a>
 - 🤖 <a href="https://www.linkedin.com/feed/update/urn:li:activity:7171105504197234688">Handling Kotlin and Swift methods using MethodChannel</a> 
 - 🧪 <a href="https://www.linkedin.com/feed/update/urn:li:activity:7136783805494833152">Writing Unit Test In Flutter With Mockito</a>
+
 
 
 ## 💡 Open source libraries
