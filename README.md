@@ -27,8 +27,8 @@
 
 
 ## 💡 Open source libraries
-- ♒️♒️ <a href="https://pub.dev/packages/flutternativedata">Flutternativedata - A new Flutter plugin project that allows you to get all native data in one place. </a> 
-- 📶📶 <a href="https://pub.dev/packages/livelyness_detection">Livelyness_detection - Liveness detection for face recognition in biometrics is a technique where an algorithm detects if the person in front of the camera is alive and real </a> 
+- ♒️♒️ <a href="https://pub.dev/packages/flutternativedata">Flutternativedata plugin - A new Flutter plugin project that allows you to get all native data in one place with Swift and Kotlin. </a> 
+- 📶📶 <a href="https://pub.dev/packages/livelyness_detection">Livelyness_detection plugin - Liveness detection for face recognition in biometrics with Swift and Kotlin is a technique where an algorithm detects if the person in front of the camera is alive and real </a> 
 
 ---
 
