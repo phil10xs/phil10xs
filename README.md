@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <H1 align='center'>Hi 👋 I am Phil</H1>
-<p align='center'>I am a mobile developer, passionate about building innovative and exciting projects using Dart, Swift, and Kotlin</p>
+<p align='center'>I am a mobile developer, passionate about building innovative and exciting projects using Dart, React Native, Swift, and Kotlin</p>
 
 <p align='center'>
 <a href="mailto:philnately24@gmail.com">
